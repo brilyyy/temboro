@@ -7,6 +7,7 @@
     <title>Desa Temboro</title>
     <meta name="author" content="Admin Temboro">
     <meta name="description" content="">
+    @yield('meta-fb')
 
     <!-- Tailwind -->
     <link href="https://unpkg.com/tailwindcss/dist/tailwind.min.css" rel="stylesheet">
